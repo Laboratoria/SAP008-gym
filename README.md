@@ -25,3 +25,5 @@
 - ### [Sessão 11](./session-11/README.md)
 
 - ### [Sessão 12](./session-12/README.md)
+
+- ### [Sessão 13](./session-13/README.md)
