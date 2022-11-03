@@ -4,7 +4,7 @@ Entrevistador: Sebastián
 
 Entrevistada: Marina
 
-[![Mock mock interview](https://img.youtube.com/vi/nNrS5xitAGk/0.jpg)](https://youtu.be/AybAbA4_Xg0)
+[![Mock mock interview](https://img.youtube.com/vi/AybAbA4_Xg0/0.jpg)](https://youtu.be/AybAbA4_Xg0)
 ## Desafio
 
 ### Encontrar o caractere do meio
