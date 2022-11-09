@@ -31,3 +31,5 @@
 - ### [tech-mock-mock-interview](./tech-mock-mock-interview-01/README.md)
 
 - ### [Sessão 14](./session-14/README.md)
+
+- ### [tech-mock-mock-interview 2](./tech-mock-mock-interview-02/README.md)
