@@ -4,7 +4,7 @@ Entrevistador: Alpi
 
 Entrevistada: Clarissa
 
-[![Mock mock interview](https://img.youtube.com/vi/nNrS5xitAGk/0.jpg)](https://youtu.be/nNrS5xitAGk)
+[![Mock mock interview](https://img.youtube.com/vi/gyTiRnkqM4Y/0.jpg)](https://youtu.be/gyTiRnkqM4Y)
 
 ## Desafio
 
