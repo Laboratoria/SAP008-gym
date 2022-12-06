@@ -33,3 +33,7 @@
 - ### [Sessão 14](./session-14/README.md)
 
 - ### [tech-mock-mock-interview 2](./tech-mock-mock-interview-02/README.md)
+
+- ### [Sessão 15](./session-15/README.md)
+
+- ### [Sessão 16](./session-16/README.md)
